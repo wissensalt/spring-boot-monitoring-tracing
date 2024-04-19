@@ -1,4 +1,4 @@
-# SpringBoot Prometheus
+# SpringBoot Monitoring and Tracing
 
 ## Tech Stack
 - Java 21
